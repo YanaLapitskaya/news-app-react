@@ -1,0 +1,1 @@
+News application which was created reading the book "React for beginners" by Patsinky
